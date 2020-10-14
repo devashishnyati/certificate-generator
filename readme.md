@@ -12,6 +12,15 @@ python create_cert.py
 
 `rec_text = 'Performer of the year 2019-20 ' + j['CATEGORY'] + ' ' + j['Product'] + ' as ' + j['DESIGNATION'] + ' under category of ' + j['TROPHY TYPE']`
 
+Add the following templates 
+>templates/director_template.jpg
+
+>templates/md_template.jpg
+
+>templates/vp_template.jpg
+
+
+
 
 
 # Format for the file Award.csv: 
@@ -20,4 +29,5 @@ python create_cert.py
 `1,XYZ,Relationship Manager,CMD,B2C Sales,Life Insurrance`
 
 `2,ABC,Relationship Manager,Director,B2C Sales,Life Insurrance `
+
 
